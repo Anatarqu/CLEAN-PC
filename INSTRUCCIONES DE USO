@@ -1,3 +1,11 @@
 INSTRUCCIONES DE USO
 
-Abrir el programa batch con el editor de texto de su  preferencia y modificar la dirección de las carpetas de acuerdo al usuario del dispositivo
+Abrir el programa batch con el editor de texto de su  preferencia y modificar la dirección de las carpetas de acuerdo al usuario del dispositivo...
+
+del /s /q /f C:\Users\andre\AppData\Roaming\Mozilla\Firefox\Profiles\places.sqlite
+del /s /q /f C:\Users\andre\AppData\Local\Microsoft\Edge\User Data
+del /s /q /f C:\Users\andre\AppData\Local\Google\Chrome\User Data\History
+
+En este recorte del codigo observamos la ruta de todos los apartados del sistema en los que realizaremos la función de limpieza.
+
+Para este caso reemplazaremos el usuario andre/ por el que tengamos en nuestra computadora
